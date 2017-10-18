@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu+Condensed');
+
+div{
+background-color: yellow;
+font-size: 50px;
+margin: 30px;
+}
+
+
+/*estructura para un id*/
+#saludo{
+    border: 15px solid red;
+}
+#despedida{
+   border: 3px dotted green;
+
+
+}
+/*estructura por clases*/
+.frances{
+ color: red;
+}
+
+
+.chino{
+ color: blue;
+ font-weight: bold;
+ font-family: sans-serif;
+ box-shadow: 1px 1px 10px black;
+background-image: linear-gradient(90deg, #ff00aa, #0000ff);
+
+}
+
+.mandarin{
+  font-family: "Ubuntu+Condensed"
+}
+
+.ingles{
+padding: 70px;
+background-image: url('soda.jpg');
+background-size: 100px;
+background-repeat: no-repeat;
+
+
+}
